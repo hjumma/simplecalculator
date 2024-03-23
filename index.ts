@@ -3,10 +3,10 @@
 import inquirer from "inquirer";
 
 const answer = await inquirer.prompt([
-  { message: "Enter First Number", type: "number", name: "firstnumber" },
-  { message: "Enter Second Number", type: "number", name: "secondnumber" },
+  { message: "Enter  Your First Number", type: "number", name: "firstnumber" },
+  { message: "Enter Your Second Number", type: "number", name: "secondnumber" },
   {
-    message: "Select one of the operators to perfrom operation",
+    message: "Select one of the  following operator",
     type: "list",
     name: "operator",
     choices: ["Addition", "Substraction", "Multiply", "Divide"],
