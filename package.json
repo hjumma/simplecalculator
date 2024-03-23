@@ -1,6 +1,6 @@
 {
   "name": "rx09-simplecalculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Calculator with Typescript, Node.js & Inquirer",
   "main": "index.js",
   "type": "module",
